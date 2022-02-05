@@ -1,0 +1,37 @@
+.cancela {
+    position: relative;
+    left: 35%;
+    background-color: red;
+    border-style: red;
+    color: white;
+}
+
+.criar {
+    position: relative;
+    left: 30%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+mat-card {
+    width: 50%;
+    position: relative;
+    left: 23%;
+}
+
+button {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+mat-card-title {
+    text-align: center;
+}

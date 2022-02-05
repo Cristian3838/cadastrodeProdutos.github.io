@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+}
+
+.estilo {
+    border-bottom: 6px;
+}
+
+i.edit {
+    color: yellow;
+    padding-right: 10px;
+}
+
+i.delete {
+    color: red;
+}

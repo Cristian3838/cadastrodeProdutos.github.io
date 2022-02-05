@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Produto de teste",
+      "price": "145.00",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.44",
+      "id": 8
+    },
+    {
+      "name": "Celular Asus Go Live",
+      "price": "551.00",
+      "id": 9
+    },
+    {
+      "name": "Ventilador VentiMax",
+      "id": 10,
+      "price": "100.00"
+    },
+    {
+      "name": "Veneno de Pernilongo",
+      "id": 11,
+      "price": "4.50"
+    },
+    {
+      "name": "Achocolado ShakeMix",
+      "id": 12,
+      "price": "6.99"
+    }
+  ]
+}
